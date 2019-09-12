@@ -1,0 +1,1 @@
+Make easy to start HTML5 projects.
